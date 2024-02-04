@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "io.h": "c",
+        "string_view": "c",
+        "vga.h": "c",
+        "mem.h": "c",
+        "string.h": "c",
+        "serial.h": "c",
+        "log.h": "c",
+        "keyboard.h": "c",
+        "timer.h": "c",
+        "isr.h": "c",
+        "algorithm": "c",
+        "random": "c",
+        "common.h": "c",
+        "kmemory.h": "c",
+        "paging.h": "c",
+        "interrupt_table.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
